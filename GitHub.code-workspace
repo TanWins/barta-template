@@ -1,0 +1,20 @@
+{
+  "folders": [
+	{
+		"name": "GitHub",
+		"path": ".."
+	},
+	{
+		"name": "Web Dev Projects",
+		"path": "../../Web Dev Projects"
+	},
+	{
+		"name": "Data Structures (Y3 Spring)",
+		"path": "../../../Class/College/Data Structures (Y3 Spring)"
+	},
+	{
+		"name": "Python Practice",
+		"path": "../../Python Practice"
+	}
+]
+}
